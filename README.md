@@ -1,2 +1,1 @@
-# Sample1
-new repos
+HTML, CSS, and Javascript for Web Developers
